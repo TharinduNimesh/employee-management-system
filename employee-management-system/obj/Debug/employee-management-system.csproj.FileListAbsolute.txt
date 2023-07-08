@@ -11,3 +11,16 @@ C:\Users\Lenovo ideapadGaming\Desktop\lbjhkl\employee-management-system\employee
 C:\Users\Lenovo ideapadGaming\Desktop\lbjhkl\employee-management-system\employee-management-system\obj\Debug\employee-management-system.csproj.CopyComplete
 C:\Users\Lenovo ideapadGaming\Desktop\lbjhkl\employee-management-system\employee-management-system\obj\Debug\employee-management-system.exe
 C:\Users\Lenovo ideapadGaming\Desktop\lbjhkl\employee-management-system\employee-management-system\obj\Debug\employee-management-system.pdb
+C:\Users\User\Source\Repos\employee-management-system\employee-management-system\bin\Debug\employee-management-system.exe.config
+C:\Users\User\Source\Repos\employee-management-system\employee-management-system\bin\Debug\employee-management-system.exe
+C:\Users\User\Source\Repos\employee-management-system\employee-management-system\bin\Debug\employee-management-system.pdb
+C:\Users\User\Source\Repos\employee-management-system\employee-management-system\bin\Debug\Guna.UI2.dll
+C:\Users\User\Source\Repos\employee-management-system\employee-management-system\obj\Debug\employee-management-system.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\employee-management-system\employee-management-system\obj\Debug\employee-management-system.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Source\Repos\employee-management-system\employee-management-system\obj\Debug\employee_management_system.Form1.resources
+C:\Users\User\Source\Repos\employee-management-system\employee-management-system\obj\Debug\employee_management_system.Properties.Resources.resources
+C:\Users\User\Source\Repos\employee-management-system\employee-management-system\obj\Debug\employee-management-system.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\employee-management-system\employee-management-system\obj\Debug\employee-management-system.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\employee-management-system\employee-management-system\obj\Debug\employee-management-system.csproj.CopyComplete
+C:\Users\User\Source\Repos\employee-management-system\employee-management-system\obj\Debug\employee-management-system.exe
+C:\Users\User\Source\Repos\employee-management-system\employee-management-system\obj\Debug\employee-management-system.pdb
