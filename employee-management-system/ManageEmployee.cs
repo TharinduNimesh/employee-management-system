@@ -10,23 +10,21 @@ using System.Windows.Forms;
 
 namespace employee_management_system
 {
-    public partial class AddEmployee : Form
+    public partial class ManageEmployee : Form
     {
-        public AddEmployee()
+        public ManageEmployee()
         {
             InitializeComponent();
         }
 
-        private void guna2Button1_Click(object sender, EventArgs e)
+        private void guna2Panel3_Paint(object sender, PaintEventArgs e)
         {
-            Dashboard dashboard = new Dashboard();  
-            dashboard.Show();
-            this.Hide();
+
         }
 
         private void guna2GradientButton3_Click(object sender, EventArgs e)
         {
-            this.Hide();
+            this.Close();
         }
     }
 }

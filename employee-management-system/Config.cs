@@ -10,24 +10,24 @@ using System.Windows.Forms;
 
 namespace employee_management_system
 {
-    public partial class Login : Form
+    public partial class Config : Form
     {
-        public Login()
+        public Config()
         {
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-            Register register = new Register();
-            register.Show();
-            this.Hide();
-        }
-
-        private void guna2GradientButton1_Click(object sender, EventArgs e)
+        private void guna2Button1_Click(object sender, EventArgs e)
         {
             Dashboard dashboard = new Dashboard();
             dashboard.Show();
+            this.Hide();
+        }
+
+        private void guna2Button2_Click(object sender, EventArgs e)
+        {
+            Employee employee = new Employee();
+            employee.Show();
             this.Hide();
         }
     }
