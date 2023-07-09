@@ -24,3 +24,5 @@ C:\Users\User\Source\Repos\employee-management-system\employee-management-system
 C:\Users\User\Source\Repos\employee-management-system\employee-management-system\obj\Debug\employee-management-system.csproj.CopyComplete
 C:\Users\User\Source\Repos\employee-management-system\employee-management-system\obj\Debug\employee-management-system.exe
 C:\Users\User\Source\Repos\employee-management-system\employee-management-system\obj\Debug\employee-management-system.pdb
+C:\Users\Lenovo ideapadGaming\Desktop\lbjhkl\employee-management-system\employee-management-system\obj\Debug\employee_management_system.AddEmployee.resources
+C:\Users\Lenovo ideapadGaming\Desktop\lbjhkl\employee-management-system\employee-management-system\obj\Debug\employee_management_system.Dashboard.resources
